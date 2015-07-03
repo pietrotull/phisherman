@@ -1,4 +1,4 @@
-Simple seed project for ino-weel
+Simple seed project for ino-week
 
 includes 
 - spark
